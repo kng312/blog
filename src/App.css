@@ -6,6 +6,13 @@ div {
   box-sizing: border-box;
 }
 
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #eee;
+  text-align: left;
+}
+
 .list {
   padding-left: 20px;
   text-align: left;
